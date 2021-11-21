@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93acc161-291a-4319-9e03-b85daa0eb81a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hlhjdNCvqv39JuBTLSIpbxea1y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Zotato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zotato" />
+      <module name="Zotato" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Zotato" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93acc161-291a-4319-9e03-b85daa0eb81a" name="Default Changelist" comment="" />
+      <created>1600591722922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600591722922</updated>
+      <workItem from="1600591730837" duration="2864000" />
+      <workItem from="1600606918089" duration="41152000" />
+      <workItem from="1600708398394" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Java" timestamp="1600609690956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Java/0.0.1536.824@0.0.1536.824" timestamp="1600609690956" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1600702234577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1600702234577" />
+    <state x="334" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600611872974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="334" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1600611872974" />
+    <state width="1493" height="666" key="GridCell.Tab.0.bottom" timestamp="1600708573572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600708573572" />
+    <state width="1493" height="666" key="GridCell.Tab.0.center" timestamp="1600708573571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600708573571" />
+    <state width="1493" height="666" key="GridCell.Tab.0.left" timestamp="1600708573571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600708573571" />
+    <state width="1493" height="666" key="GridCell.Tab.0.right" timestamp="1600708573572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="666" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600708573572" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1600708398924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600708398924" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600625174520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600625174520" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600625180213">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600625180213" />
+  </component>
+</project>
